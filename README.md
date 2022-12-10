@@ -2,7 +2,7 @@
 
 # Mutant Maker
 
-- **_Engine/Framework/Library_**: Cocos Creator 3.x / Cannon.Js
+- **_Engine/Framework/Library_**: Cocos Creator 3.5.2 / Cannon.Js
 - **_Ad Network_**: full
 - _Single HTML file_
 
